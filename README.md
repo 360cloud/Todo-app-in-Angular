@@ -1,4 +1,8 @@
 
+# Url for detail :
+
+https://medium.freecodecamp.org/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7
+
 # TodoApp
 ![preview](preview/todo2.gif)
 
